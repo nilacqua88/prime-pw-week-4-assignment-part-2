@@ -1,5 +1,14 @@
 
 
-h1 {
-  background-color: blue;
+h1, p{
+  background-color:#ff6f00;
+}
+
+h2 {
+  background-color: rgba(255, 255, 128, .5);;
+  color:#ff0000 ;
+}
+h3 {
+  background-color:#74992e;
+  color:brown;
 }
